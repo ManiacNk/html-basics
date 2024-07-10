@@ -1,0 +1,22 @@
+a{
+    color: brown;
+    text-decoration: none;
+}
+#ip1{
+    background-color: blueviolet;
+}
+#p1{
+    background-color: azure;
+}
+#p2{
+background-color: blueviolet;    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#p3{
+    border: 0ch;
+}
+.grp1{
+    background-color: chocolate;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid purple;
+    margin: 5% 30% 2% 10%;
+    padding: 10px 30px 10px 40px il;
+}
